@@ -1,5 +1,11 @@
+
 % This is created by Tao on 9 May
-this is how to make a cake
+
+This is how to make a cake
+
+! Attention
+1.This is for private use!
+2.Make sure every ingredient is not out of data!
 
 1. add flour
 2. add water
